@@ -3,13 +3,13 @@ Laravel log viewer
 
 [![Packagist](https://img.shields.io/packagist/v/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer)
 [![Packagist](https://img.shields.io/packagist/l/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer) 
-[![Packagist](https://img.shields.io/packagist/dm/rap2hpoutre/laravel-log-viewer.svg)](https://packagist.org/packages/rap2hpoutre/laravel-log-viewer) 
+[![Packagist](https://img.shields.io/packagist/dm/gopalindians/laravel-log-viewer.svg)](https://packagist.org/packages/gopalindians/laravel-log-viewer) 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/rap2hpoutre/laravel-log-viewer/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/rap2hpoutre/laravel-log-viewer/?branch=master) 
-[![Author](https://img.shields.io/badge/author-@rap2h-blue.svg)](https://twitter.com/rap2h)
+[![Author](https://img.shields.io/badge/author-@rap2h-blue.svg)](https://twitter.com/rap2h) [![Author](https://img.shields.io/badge/author-@gopalindians-blue.svg)](https://twitter.com/gopalindians)
 
 
 ## TL;DR
-Log Viewer for Laravel 6, 7, 8, 9, 10, 11 & 12 and Lumen. **Install with composer, create a route to `LogViewerController`**. No public assets, no vendor routes, works with and/or without log rotate. Inspired by Micheal Mand's [Laravel 4 log viewer](https://github.com/mikemand/logviewer) (works only with laravel 4.1)
+Log Viewer for Laravel 6, 7, 8, 9, 10, 11 , 12 & 13 and Lumen. **Install with composer, create a route to `LogViewerController`**. No public assets, no vendor routes, works with and/or without log rotate. Inspired by Micheal Mand's [Laravel 4 log viewer](https://github.com/mikemand/logviewer) (works only with laravel 4.1)
 
 ## What ?
 Small log viewer for laravel. Looks like this:
